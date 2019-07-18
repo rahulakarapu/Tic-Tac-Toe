@@ -1,5 +1,7 @@
 # React Tutorial - Tic Tac Toe Game
 
+Code for an interactive tic tac toe game using react.js
+
 
 ## Improvements
 
